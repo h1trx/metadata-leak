@@ -6,7 +6,7 @@ Este repositorio está destinado a documentar la exposición de documentos sensi
 
 ## 🔍 Detalles del Incidente
 
-**📅 Fecha y Hora de Descubrimiento:** [Fecha y hora en que se descubrió la exposición]
+**📅 Fecha y Hora de Descubrimiento:** 14 JUL 2024 - 11:45 P.M
 
 **🔎 Descripción del Problema:**
 
