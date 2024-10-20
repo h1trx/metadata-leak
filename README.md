@@ -139,7 +139,7 @@ La información contenida en este repositorio se proporciona con el fin de alert
 Para consultas adicionales o para informar sobre nuevas exposiciones, por favor contacta a:
 
 - Guillermo Salgado
-- guillo.salgado@outlook.com
+- h1trx@devscorp.com.co
 
 ---
 
